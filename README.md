@@ -12,3 +12,6 @@ endpoints:-
 (ii) /listSchools?latitude=query&longitude=query:
 send a get request providing user latitude and longitude in the query to get the closest school
 
+![image](https://github.com/user-attachments/assets/d12323bb-d0f2-421e-918e-6738b121fb60)
+
+![image](https://github.com/user-attachments/assets/bfc2b3a8-4e5f-4bc5-b790-c2fae1d053d2)
